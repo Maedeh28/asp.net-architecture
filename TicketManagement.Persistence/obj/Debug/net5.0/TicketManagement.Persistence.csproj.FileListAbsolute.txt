@@ -1,0 +1,17 @@
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\bin\Debug\net5.0\TicketManagement.Persistence.deps.json
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\bin\Debug\net5.0\TicketManagement.Persistence.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\bin\Debug\net5.0\ref\TicketManagement.Persistence.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\bin\Debug\net5.0\TicketManagement.Persistence.pdb
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\bin\Debug\net5.0\TicketManagement.Application.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\bin\Debug\net5.0\TicketManagement.Domain.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\bin\Debug\net5.0\TicketManagement.Application.pdb
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\bin\Debug\net5.0\TicketManagement.Domain.pdb
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\obj\Debug\net5.0\TicketManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\obj\Debug\net5.0\TicketManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\obj\Debug\net5.0\TicketManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\obj\Debug\net5.0\TicketManagement.Persistence.AssemblyInfo.cs
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\obj\Debug\net5.0\TicketManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\obj\Debug\net5.0\TicketManagement.Persistence.csproj.CopyComplete
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\obj\Debug\net5.0\TicketManagement.Persistence.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\obj\Debug\net5.0\ref\TicketManagement.Persistence.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Persistence\obj\Debug\net5.0\TicketManagement.Persistence.pdb

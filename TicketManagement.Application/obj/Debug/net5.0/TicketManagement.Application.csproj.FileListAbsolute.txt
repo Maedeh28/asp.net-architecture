@@ -1,0 +1,15 @@
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\bin\Debug\net5.0\TicketManagement.Application.deps.json
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\bin\Debug\net5.0\TicketManagement.Application.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\bin\Debug\net5.0\ref\TicketManagement.Application.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\bin\Debug\net5.0\TicketManagement.Application.pdb
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\bin\Debug\net5.0\TicketManagement.Domain.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\bin\Debug\net5.0\TicketManagement.Domain.pdb
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\obj\Debug\net5.0\TicketManagement.Application.csproj.AssemblyReference.cache
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\obj\Debug\net5.0\TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\obj\Debug\net5.0\TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\obj\Debug\net5.0\TicketManagement.Application.AssemblyInfo.cs
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\obj\Debug\net5.0\TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\obj\Debug\net5.0\TicketManagement.Application.csproj.CopyComplete
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\obj\Debug\net5.0\TicketManagement.Application.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\obj\Debug\net5.0\ref\TicketManagement.Application.dll
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Application\obj\Debug\net5.0\TicketManagement.Application.pdb

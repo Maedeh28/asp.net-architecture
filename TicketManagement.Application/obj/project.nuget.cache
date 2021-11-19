@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "p1SChfifThmEPRMfjMG0FEDtGXeR7RHoksCfmJcG0Wy+x+Ov1/MkSi2e8rMnwpU39NEyD9iaWyHR/1RWSfz2ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MaedehMousavi\\MyProjects\\IdentityServer\\TicketManagement\\TicketManagement\\TicketManagement.Application\\TicketManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\MaedehMousavi\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
