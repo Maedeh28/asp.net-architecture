@@ -9,3 +9,4 @@ C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManageme
 C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Domain\obj\Debug\net5.0\TicketManagement.Domain.dll
 C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Domain\obj\Debug\net5.0\ref\TicketManagement.Domain.dll
 C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Domain\obj\Debug\net5.0\TicketManagement.Domain.pdb
+C:\Users\MaedehMousavi\MyProjects\IdentityServer\TicketManagement\TicketManagement\TicketManagement.Domain\obj\Debug\net5.0\TicketManagement.Domain.csproj.AssemblyReference.cache
