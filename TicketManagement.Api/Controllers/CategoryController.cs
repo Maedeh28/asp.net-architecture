@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using GloboTicket.TicketManagement.Application.Features.Categories.Commands.CreateCateogry;
+using TicketManagement.Application.Features.Categories.Commands.CreateCateogry;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

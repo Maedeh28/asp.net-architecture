@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using TicketManagement.Application.Contracts.Persistence;
 using TicketManagement.Domain.Entities;
 
-namespace GloboTicket.TicketManagement.Application.Features.Categories.Commands.CreateCateogry
+namespace TicketManagement.Application.Features.Categories.Commands.CreateCateogry
 {
     public class CreateCategoryCommandHandler : IRequestHandler<CreateCategoryCommand, CreateCategoryCommandResponse>
     {

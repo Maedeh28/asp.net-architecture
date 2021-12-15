@@ -40,6 +40,8 @@ namespace TicketManagement.Api
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "TicketManagement.Api", Version = "v1" });
+
+             //   c.OperationFilter<FileResultContentTypeOperationFilter>();
             });
         }
 
